@@ -7,8 +7,7 @@ This practical lab explored the **Transport Layer** (Layer 4 of the OSI model), 
 
 ## 2. Evidence and Explanation
 
-![Transport Layer Simulation](transport_layer.png)
-
+<img src="images/transport_layer.png" width="500" alt="Transport Layer Simulation">
 
 *Figure 1: MultiServer Socket Active Session Registry Diagnostic*
 
