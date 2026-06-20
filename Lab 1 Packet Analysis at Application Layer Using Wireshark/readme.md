@@ -1,4 +1,4 @@
-# Lab 1: Packet Analysis at Application Layer Using Wireshark 🔌🔍
+# Lab 1: Packet Analysis at Application Layer Using Wireshark 
 
 ## 1. Lab Summary
 This practical lab focused on network communication behavior at the topmost layer of the OSI model: the **Application Layer**. Utilizing **Wireshark**, a high-performance packet analysis tool, I captured and scrutinized the exact sequence of packets exchanged between a client machine and remote servers. The objective was to unpack the operational mechanics of core protocols that drive daily web activities—specifically **HTTP (Hypertext Transfer Protocol)** and **DNS (Domain Name System)**. By inspecting raw protocol fields, message types, and port numbers, I established a clear understanding of client-server request-response loops and local DNS resolution behaviors.
