@@ -1,4 +1,4 @@
-# Lab 4+: ARP Exploration and Wireless LAN Integration 
+# Lab 4: ARP Exploration and Wireless LAN Integration 
 
 ## 1. Lab Summary
 This lab investigated intermediate network lookup behaviors and modern edge access integrations. The first component explored the **Address Resolution Protocol (ARP)** and local MAC address learning mechanics inside local area networks. By executing simulated data transmissions across multi-switch topologies, I analyzed how hardware frames map onto logical IP targets. The second phase integrated enterprise wireless communication pathways, configuring standalone local home gateways alongside professional **WPA2-Personal** encryption settings to safely bridge wireless end-user nodes onto established wired corporate VLAN boundaries.
