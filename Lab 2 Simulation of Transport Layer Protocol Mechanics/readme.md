@@ -1,6 +1,6 @@
 # Lab 2: Simulation of Transport Layer Protocol Mechanics (TCP & UDP) 
 
-## 1. Project Summary
+## 1. Lab Summary
 This practical lab explored the **Transport Layer** (Layer 4 of the OSI model), investigating the operational differences between the internet’s two foundational transport protocols: **TCP (Transmission Control Protocol)** and **UDP (User Datagram Protocol)**. Executed inside **Cisco Packet Tracer's Simulation Mode**, the project involved building and analyzing a multi-client network interacting with a centralized server (`MultiServer`) running concurrent HTTP, FTP, DNS, and SMTP (Email) services. The objective was to observe multiplexing, transient port allocation policies, connection-oriented socket lifecycles (TCP handshakes), and connectionless streaming (UDP) at a packet-by-packet layer.
 
 ---
