@@ -31,7 +31,7 @@ The core focus of this course is understanding the fundamentals of data transmis
 ## 👥 Course Team Profile & Collaborators
 
 ### 🏆 Main Capstone Project Teammates (Group Name: Power Rangers)
-* **Chew Chiu Xian** (A23CS0061) — *Portfolio Owner*
+* **Chew Chiu Xian** (A23CS0061)
 * **Brendan Chia Yan Fei** (A23CS0211)
 * **Elijah She Yu Sheng** (A23CS0073)
 * **Lau Yan Kai** (A23CS0098)
